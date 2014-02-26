@@ -1,4 +1,4 @@
-package com.example.ejemplowebview;
+package com.sovejo.lexdroidejemplowebview;
 
 import android.os.Bundle;
 import android.app.Activity;
